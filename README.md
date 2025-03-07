@@ -1,6 +1,16 @@
 # CALL_BOOMB
+```python 
+pkg update-y
+pkg upgrade 
+pkg install git
+pkg install python
+pip install -r requirements.txt
+```
 
-    <p>স্বাগতম CALL_BOOMB প্রকল্পে!</p>
+```json
+http://192.168.0.1/login.html
+```
+<p>স্বাগতম CALL_BOOMB প্রকল্পে!</p>
   
 
 
