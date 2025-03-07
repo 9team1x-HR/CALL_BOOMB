@@ -1,4 +1,5 @@
-# CALL_BOOMB
+
+# CALL_BOOMB 
 ```python 
 pkg update-y
 pkg upgrade 
@@ -8,13 +9,16 @@ pip install -r requirements.txt
 ```
 
 ```json
-http://192.168.0.1/login.html
+git clone https://github.com/9team1x-HR/CALL_BOOMB.git
 ```
-<p>স্বাগতম CALL_BOOMB প্রকল্পে!</p>
-  
+
+```bash
+cd CALL_BOOMB
+ls
+python gp.py
+```  
 
 
-    <h2>প্রকল্প বর্ণনা</h2>
-    <p>এই প্রকল্পটি বিভিন্ন শক্তিশালী টুলস এবং লাইব্রেরি ব্যবহার করে তৈরি। এটি [প্রকল্পের কার্যকারিতা সম্পর্কে সংক্ষিপ্ত বিবরণ]।</p>
+    
   
 
