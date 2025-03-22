@@ -5,7 +5,8 @@ pkg update-y
 pkg upgrade 
 pkg install git
 pkg install python
-pip install -r requirements.txt
+pip install requests 
+rm -rf CALL_BOOMB
 ```
 
 ```json
